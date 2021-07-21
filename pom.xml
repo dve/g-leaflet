@@ -4,8 +4,8 @@
     <!-- POM file generated with GWT webAppCreator -->
     <modelVersion>4.0.0</modelVersion>
 
-    <version>1.0.17-SNAPSHOT</version>
-    <groupId>org.peimari</groupId>
+    <version>1.0.17-infinitenature</version>
+    <groupId>org.infinitenature</groupId>
     <artifactId>g-leaflet</artifactId>
     <packaging>jar</packaging>
     <name>g-leaflet</name>
